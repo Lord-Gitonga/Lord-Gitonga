@@ -1,11 +1,6 @@
 <h1 align="center">Hi 👋, I'm Morris Gitonga</h1>
 <h3 align="center">A passionate Software Engineer from Nairobi, Kenya</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=lord-gitonga&label=Profile%20views&color=0e75b6&style=flat" alt="lord-gitonga" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lord-gitonga" alt="lord-gitonga" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/gitongah" target="blank"><img src="https://img.shields.io/twitter/follow/gitongah?logo=twitter&style=for-the-badge" alt="gitongah" /></a> </p>
 
 - 💬 Ask me about **front-end or back-end tech.**
 
