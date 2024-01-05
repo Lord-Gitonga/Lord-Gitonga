@@ -5,6 +5,7 @@
 - 💬 Ask me about **front-end or back-end tech.**
 
 - 📫 How to reach me **gitonga403@gmail.com**
+- Check out my Portfolio https://gitonga-portfolio-beta.vercel.app/
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
